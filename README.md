@@ -1,5 +1,4 @@
 # srs3.0-android
-setp
 cd trunk
 ./configure --static
 make
